@@ -10,6 +10,6 @@ https://drive.google.com/drive/folders/1kJhKzX674Uvec6YWeCm8zVGNJXNIhbmu?usp=sha
 
 
 ### AntiMalwares
-![Malwares Bytes - Adw Cleaner](https://www.malwarebytes.com/mwb-download/thankyou)
+[Malwares Bytes - Adw Cleaner](https://www.malwarebytes.com/mwb-download/thankyou)
 
 
