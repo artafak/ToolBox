@@ -25,7 +25,7 @@ Liens utiles vers des outils pratiques
 [IoC format MISP](https://www.circl.lu/doc/misp/feed-osint/)
 [Awesome IoC](https://github.com/sroberts/awesome-iocs)
 [USN Journal](https://blog.haboob.sa/blog/advanced-usn-journal-forensics)
-
+[Malwares samples](https://github.com/fabrimagic72/malware-samples/tree/master)
 
 
 ### CTF Write-Up
