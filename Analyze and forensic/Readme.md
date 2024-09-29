@@ -13,5 +13,5 @@ AccessData Registry Viewer v2.0.0 --> [[Exe]](https://archive.org/download/acces
 
 #### Zimmerman's tools
 prerequisites : Microsoft .net 4.8 Offline Installer package --> [[Exe]](https://go.microsoft.com/fwlink/?linkid=2088631)    
-Zimmerman's tools --> [[Zip]](https://archive.org/compress/eric-zimmerman-tools/formats=ZIP&file=/eric-zimmerman-tools.zip)         
+Zimmerman's tools --> [[Zip]](https://archive.org/compress/eric-zimmerman-tools/formats=ZIP&file=/eric-zimmerman-tools.zip) or [[Zip here]](https://drive.google.com/file/d/1PT7q3AKfY7JKPiLa_59fHCoatbgBV1US/view?usp=drive_link)            
 Eric Zimmerman Command Line Tools CheatSheet v1.0 --> [[Pdf]](https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt1e7af8929399a930/6086df08b35a7a3c69a38b64/EricZimmermanCommandLineToolsCheatSheet-v1.0.pdf)      /  SANS EZ-Tools Poster --> [[Pdf]](https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt60911bacd0076d64/649c897c13bff842b82ed53c/SANS_EZ-Tools_Poster.pdf) 
